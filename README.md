@@ -188,3 +188,12 @@ We use [Issuehunt](https://issuehunt.io/repos/3452688) to up-vote and promote sp
 ## ❤️ Backers [![](https://opencollective.com/ant-design/tiers/backers/badge.svg?label=Backers&color=brightgreen)](https://opencollective.com/ant-design#support)
 
 [![](https://opencollective.com/ant-design/tiers/backers.svg?avatarHeight=72)](https://opencollective.com/ant-design/contribute/backers-217/checkout)
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [ant-design/ant-design](https://github.com/ant-design/ant-design), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/ant-design/ant-design
